@@ -1,4 +1,4 @@
-# Sistema básico de Banco Utilizando API REST  
+# Sistema básico de Banco Utilizando API REST utilizando o Express
 
 Funcionalidades Baseadas nos requisitos abaixo: 
 
